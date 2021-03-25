@@ -176,5 +176,8 @@
       }
     }
   },
-  "defaultProject": "ngx-spinner"
+  "defaultProject": "ngx-spinner",
+  "cli": {
+    "analytics": false
+  }
 }
